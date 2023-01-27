@@ -1,5 +1,7 @@
 const express=require("express")
 const randomWords = require('random-words');
+const cors = require("cors")
+
 
 const app=express()
 
